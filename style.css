@@ -1,6 +1,8 @@
 
 body {
-background-image: url(img/background.png);
+    background:no-repeat center;
+    background-image: url(img/background.png);
+    background-size: 100% 100%;
 background-color: white;
 }
 #main {
@@ -46,13 +48,18 @@ margin: auto;
     color: black;
     padding-top: 45px;
     background: linear-gradient(135deg, rgba(255,255,255,1) 0%,rgba(243,243,243,1) 50%,rgba(237,237,237,1) 51%,rgba(255,255,255,1) 100%);
+    background-size: 150% !important;
     box-shadow: -5px 5px 5px rgba(122,122,122,0.5);
+    transition: background-size 1s ease-out 0s;
 }
 
 .town:hover, .towncolumn:hover {
     background: linear-gradient(135deg, rgba(255,255,255,1) 0%, rgba(237,237,237,1) 50%, rgba(243,243,243,1) 51%  ,rgba(255,255,255,1) 100%);
     text-decoration: underline;
+    background-size: 200% !important;
 }
+
+
 
 .info {
     margin: 5px;
