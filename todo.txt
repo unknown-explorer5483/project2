@@ -6,29 +6,29 @@
 10. текст на главной - мике сделает
 
 1Ноябрьск - *
-2Златоуст -
+2Златоуст - ∞ 
 3Сургут - *
-4Кисловодск done
+4Кисловодск done by not mike
 5Первоуральск - *
 6Энгельс - *
-7Сызрань -
-8Таганрог done
-9Нижнекамск -
-10Назрань -
+7Сызрань - ∞
+8Таганрог done by not mike 
+9Нижнекамск - ∞
+10Назрань - ∞
 11Каспийск - *
-12Улан-Удэ done
+12Улан-Удэ done by not mike
 13Майкоп *
 14Находка *
 15Арзамас *
-16Серпухов - 
+16Серпухов - ∞
 17Армавир *
 18Железногорск *
 19Обнинск *
 20Муром *
 21Старый Оскол *
 22Бийск *
-23Орёл done
-24 choose any (bacause we need one more to page look good)
+23Орёл done by not mike
+24Ессентуки - ∞
 
 also needed one image from each page to fill main page (just add one to main img folder )
 
