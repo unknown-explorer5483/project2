@@ -5,7 +5,7 @@ window.onload = function () {
     map.drawImage(img, 0, 0, 944, 580);
 
     for (let id in townlist) {
-    map.fillStyle = "#F00";
+    map.fillStyle = "black";
     map.font = '15px times-new-roman';
     map.textAlign = "center";
     map.textBaseline = "bottom";
@@ -25,7 +25,7 @@ townlist = {
      name:"Ноябрьск",
      x:400,
      y:320,
-     link:"http://www.google.com",
+     link:"https://unknown-explorer5483.github.io/project2/pages/num1/index.html",
  },
  id2: {
     name:"Златоуст",
@@ -33,6 +33,7 @@ townlist = {
     y:375,
     link:"http://www.github.com",
  }
+
 };
 
 
@@ -55,7 +56,7 @@ document.getElementById('mapcanvas').onmousemove = function moveEvent(e) {
     let distancemin = 99999;
     
     for (let id in townlist) {
-    map.fillStyle = "#F00";
+    map.fillStyle = "black";
     map.font = '15px times-new-roman';
     map.textAlign = "center";
     map.textBaseline = "bottom";
