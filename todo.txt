@@ -28,7 +28,7 @@
 21Старый Оскол *
 22Бийск *
 23Орёл done by not mike
-24Ессентуки - ∞
+24Сыктывкар - ∞
 
 also needed one image from each page to fill main page (just add one to main img folder )
 
