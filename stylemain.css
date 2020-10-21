@@ -1,0 +1,102 @@
+body {
+    background:no-repeat center;
+    background-image: url(img/background.png);
+    background-size: 100% 100%;
+background-color: white;
+}
+#main {
+width: 976px;
+margin: auto;
+}
+
+.town {
+    float:left;
+
+    margin: 5px;
+    padding: 5px;
+
+    
+}
+
+.towncolumn {
+
+
+    margin: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 5px;
+    display: block;
+
+}
+
+.smallupmargin {
+    margin-top: 5px;
+}
+
+.smalldownmargin {
+    margin-bottom: 5px;
+}
+
+
+.town, .towncolumn {
+    width: 100px;
+    height: 55px;
+    border: 1px solid gray;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    padding-top: 45px;
+    background: linear-gradient(135deg, rgba(255,255,255,1) 0%,rgba(243,243,243,1) 50%,rgba(237,237,237,1) 51%,rgba(255,255,255,1) 100%);
+    background-size: 150% !important;
+    box-shadow: -5px 5px 5px rgba(122,122,122,0.5);
+    transition: background-size 1s ease-out 0s;
+}
+
+.town:hover, .towncolumn:hover {
+    background: linear-gradient(135deg, rgba(255,255,255,1) 0%, rgba(237,237,237,1) 50%, rgba(243,243,243,1) 51%  ,rgba(255,255,255,1) 100%);
+    text-decoration: underline;
+    background-size: 200% !important;
+}
+
+
+
+.info {
+    margin: 5px;
+    padding: 10px;
+    height: 436px;
+    width: 700px;
+    border: 1px solid gray;
+    background: linear-gradient(135deg, rgba(255,255,255,1) 0%,rgba(243,243,243,1) 86%,rgba(237,237,237,1) 87%,rgba(255,255,255,1) 100%);
+    box-shadow: -5px 5px 5px rgba(122,122,122,0.5);
+}
+
+.title {
+    text-align: center;
+    font-size: 40px;
+}
+
+.text {
+    height: 395px;
+    font-size: 25px;
+}
+
+
+.rightcolumn, .info, .leftcolumn {
+    float:left;
+}
+
+.upperrow:after, .midrow:after, .downrow:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+
+
+.map {
+    margin: 5px;
+    padding: 10px; 
+    border: 1px solid gray;
+    box-shadow: -5px 5px 5px rgba(122,122,122,0.5);
+    background: linear-gradient(135deg, rgba(255,255,255,1) 0%,rgba(243,243,243,1) 86%,rgba(237,237,237,1) 87%,rgba(255,255,255,1) 100%);
+}
