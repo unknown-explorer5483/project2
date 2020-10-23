@@ -5,30 +5,30 @@
 9. иконка +
 10. текст на главной - мике сделает
 
-1Ноябрьск - *
-2Златоуст - ∞ 
-3Сургут - *
+1Ноябрьск *
+2Златоуст ∞ https://susanintop.com/evropa/rossija/cheljabinskaja-oblast/zlatoust
+3Сургут * 
 4Кисловодск done by not mike
-5Первоуральск - *
-6Энгельс - *
-7Сызрань - ∞
+5Первоуральск *
+6Энгельс *
+7Сызрань ∞ https://yandex.ru/turbo/tur-ray.ru/s/syzran-attractions.html
 8Таганрог done by not mike 
-9Нижнекамск - ∞
-10Назрань - ∞
-11Каспийск - *
+9Нижнекамск ∞ http://narslovar.ru/nizhnekamsk.html
+10Назрань ∞ https://www.komandirovka.ru/sights/nazran/
+11Каспийск *
 12Улан-Удэ done by not mike
 13Майкоп *
 14Находка *
 15Арзамас *
-16Серпухов - ∞
+16Серпухов ∞ http://narslovar.ru/serpuhov.html
 17Армавир *
 18Норильск *
 19Череповец *
 20Усть-Илимск *
 21Старый Оскол *
-22Бийск *
+22Бийск * https://kudarf.ru/sibir/altaj/bijsk-dostoprimechatelnosti.html
 23Орёл done by not mike
-24Сыктывкар - ∞
+24Сыктывкар ∞ http://narslovar.ru/syiktyivkar.html
 
 also needed one image from each page to fill main page (just add one to main img folder )
 
@@ -37,3 +37,15 @@ project/pages/num0 - template for page
 planned links(if somehow needed):
 https://unknown-explorer5483.github.io/project2/pages/num[1..24]/index.html - pages 1-24 
 https://unknown-explorer5483.github.io/project2/index.html - mainmage
+
+Общая статистика города:
+ 1.численность.
+ 2.стоимость отелей и съёмных квартир (либо то либо то).
+ 3.чем занимается.
+ 4.средняя температура(климат).
+ 5.часовой поляс.
+ 6.расстояние от Москвы.
+ 7.символика.
+ 8.дата основания.
+ 
+ Незнаете куда поехать? Хотите увидеть что-то новое? Этот сайт как раз таки был создан для того, чтобы рассказать о непопулярных, но интересных направлениях туризма в России. На этом сайте вы можете увидеть 
