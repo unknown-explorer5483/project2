@@ -28,7 +28,7 @@
 21Старый Оскол *
 22Бийск * https://kudarf.ru/sibir/altaj/bijsk-dostoprimechatelnosti.html
 23Орёл ∞ done
-24Сыктывкар ∞ http://narslovar.ru/syiktyivkar.html
+24Сыктывкар ∞ done http://narslovar.ru/syiktyivkar.html
 
 also needed one image from each page to fill main page (just add one to main img folder )
 
