@@ -6,28 +6,28 @@
 10. текст на главной - мике сделает
 
 1Ноябрьск *
-2Златоуст ∞ https://susanintop.com/evropa/rossija/cheljabinskaja-oblast/zlatoust
+2Златоуст ∞ done https://susanintop.com/evropa/rossija/cheljabinskaja-oblast/zlatoust
 3Сургут * 
-4Кисловодск done by not mike
+4Кисловодск ∞ done
 5Первоуральск *
 6Энгельс *
-7Сызрань ∞ https://yandex.ru/turbo/tur-ray.ru/s/syzran-attractions.html
-8Таганрог done by not mike 
-9Нижнекамск ∞ http://narslovar.ru/nizhnekamsk.html
-10Назрань ∞ https://www.komandirovka.ru/sights/nazran/
+7Сызрань ∞ done https://yandex.ru/turbo/tur-ray.ru/s/syzran-attractions.html
+8Таганрог ∞ done
+9Нижнекамск ∞ done http://narslovar.ru/nizhnekamsk.html
+10Назрань ∞ done https://www.komandirovka.ru/sights/nazran/
 11Каспийск *
-12Улан-Удэ done by not mike
+12Улан-Удэ ∞ done
 13Майкоп *
 14Находка *
 15Арзамас *
-16Серпухов ∞ http://narslovar.ru/serpuhov.html
+16Серпухов ∞ done http://narslovar.ru/serpuhov.html
 17Армавир *
 18Норильск *
 19Череповец *
 20Усть-Илимск *
 21Старый Оскол *
 22Бийск * https://kudarf.ru/sibir/altaj/bijsk-dostoprimechatelnosti.html
-23Орёл done by not mike
+23Орёл ∞ done
 24Сыктывкар ∞ http://narslovar.ru/syiktyivkar.html
 
 also needed one image from each page to fill main page (just add one to main img folder )

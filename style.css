@@ -50,6 +50,7 @@ margin: auto;
     padding: 10px; 
     border: 1px solid gray;
     box-shadow: -5px 5px 5px rgba(122,122,122,0.5);
+    text-align:center;
     background: linear-gradient(135deg, rgba(255,255,255,1) 0%,rgba(243,243,243,1) 86%,rgba(237,237,237,1) 87%,rgba(255,255,255,1) 100%);
 }
 
@@ -62,6 +63,10 @@ margin: auto;
     padding-top: 10px;
     font-size: 25px;
     text-decoration: underline;
+}
+
+.text {
+    text-align: initial;
 }
 
 .map {
