@@ -5,12 +5,12 @@
 9. иконка +
 10. текст на главной - мике сделает
 
-1Ноябрьск *
+1Ноябрьск done
 2Златоуст ∞ done https://susanintop.com/evropa/rossija/cheljabinskaja-oblast/zlatoust + info
-3Сургут * 
+3Сургут done
 4Кисловодск ∞ done
-5Первоуральск *
-6Энгельс *
+5Первоуральск done
+6Энгельс done
 7Сызрань ∞ done https://yandex.ru/turbo/tur-ray.ru/s/syzran-attractions.html 
 8Таганрог ∞ done
 9Нижнекамск ∞ done http://narslovar.ru/nizhnekamsk.html
@@ -25,7 +25,7 @@
 18Норильск *
 19Череповец *
 20Усть-Илимск *
-21Старый Оскол *
+21Старый Оскол done
 22Бийск * https://kudarf.ru/sibir/altaj/bijsk-dostoprimechatelnosti.html
 23Орёл ∞ done
 24Сыктывкар ∞ http://narslovar.ru/syiktyivkar.html
