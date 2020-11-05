@@ -52,6 +52,11 @@ margin: auto;
     transition: background-size 1s ease-out 0s;
 }
 
+.smallimage {
+    background-size: 175% !important;
+    transition: background-size 0.5s ease-out 0s;
+}
+
 .town:hover, .towncolumn:hover {
     background: linear-gradient(135deg, rgba(255,255,255,1) 0%, rgba(237,237,237,1) 50%, rgba(243,243,243,1) 51%  ,rgba(255,255,255,1) 100%);
     text-decoration: underline;
