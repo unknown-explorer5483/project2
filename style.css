@@ -65,9 +65,6 @@ margin: auto;
     text-decoration: underline;
 }
 
-
-
-
 .map {
     margin: 5px;
     padding: 10px; 
@@ -90,7 +87,7 @@ img {
     margin: 5px;
     padding: 10px; 
     border: 1px solid gray;
-    height: 300px;
+    height: 325px;
     width: 300px;
     box-shadow: -5px 5px 5px rgba(122,122,122,0.5);
     background: linear-gradient(135deg, rgba(255,255,255,1) 0%,rgba(243,243,243,1) 86%,rgba(237,237,237,1) 87%,rgba(255,255,255,1) 100%);
@@ -103,23 +100,47 @@ img {
     border: 1px solid gray;
     box-shadow: -5px 5px 5px rgba(122,122,122,0.5);
     background: linear-gradient(135deg, rgba(255,255,255,1) 0%,rgba(243,243,243,1) 86%,rgba(237,237,237,1) 87%,rgba(255,255,255,1) 100%);
-    height: 300px;
+    height: 325px;
     float:left;
 }
-
-.symbol1 {
-    height: 300px;
-    width: 358px;
-}
-
-.symbol2 {
-    height: 300px;
-    width: 250px;
-}
-
 
 .statsandsymbols:after {
     content: "";
     display: table;
     clear: both;
 }
+
+.symbolwrapper1 {
+    height: 325px;
+    width: 358px;
+    padding-right: 4px;
+    float:left;
+}
+
+.symbolwrapper2 {
+    height: 325px;
+    width: 250px;
+    float:left;
+}
+
+.symbols:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+
+.symbol1 {
+    height: 300px;
+    width: 358px;
+    
+}
+
+.symbol2 {
+    height: 300px;
+    width: 250px;
+    
+}
+
+
+
